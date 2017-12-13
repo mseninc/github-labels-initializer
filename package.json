@@ -1,0 +1,15 @@
+{
+  "name": "github-labels-initializer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "exec": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "github": "^13.0.1"
+  }
+}
